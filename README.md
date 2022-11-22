@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=aws,vue,dart,flutter,css,html,git,github,gitlab,docker,go,grafana,graphql,js,laravel,nestjs,nginx,nodejs,nuxtjs,php,postgres,prometheus,svelte,tailwind,ts,vscode&perline=12)](https://skillicons.dev)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naoki0719&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naoki0719&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
