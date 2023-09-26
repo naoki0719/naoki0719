@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naoki0719&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naoki0719&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naoki0719&theme=onedark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=naoki0719&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
